@@ -1,0 +1,40 @@
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width:300px;
+  margin:auto;
+  text-align:center;
+  
+}
+.title{
+  font-size:18px;
+  font-family:Trebuchet;
+  color:DimGrey;
+}
+h1{
+  font-family:'Lobster','cursive';
+  text-shadow:1px 1px 1px grey;
+}
+button{
+  width:100%;
+  background-color:black;
+  color:white;
+  border:none;
+  font-size:18px;
+  padding:8px;
+  font-family:Verdana;
+  text-align:center;
+  font-weight:bold;
+  cursor:pointer;
+}
+button:hover,a:hover{
+  opacity:.5;
+}
+a{
+  color:black;
+  font-size:28px;
+  padding:5px;
+}
+.quote{
+  font-style:italic;
+  font-size:12px;
+}
